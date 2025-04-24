@@ -11,6 +11,6 @@ if __name__ == "__main__":
 
     with open("README.md", "wt", encoding="UTF-8") as f:
         f.write("# Homer Icons\n\n")
-        f.write("[Homer Icons](https://github.com/NX211/homer-icons)\n\n")
+        f.write("[Homer Icons](https://github.com/tboucher204/homer-icons)\n\n")
         f.write(" ".join(img_tags))
         f.write("\n")
